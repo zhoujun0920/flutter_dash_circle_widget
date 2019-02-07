@@ -3,7 +3,9 @@
 
 ## How to use
 image: `ImagePrvider`
- 
+
+percentage:  The percentage of one dash to whole circle. 
+
 ```dart
 DashCircle(
   padding: EdgeInsets.fromLTRB(40, 20, 40, 20),
