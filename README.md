@@ -1,4 +1,4 @@
-# flutter_dash_circle_widget
+# flutter dash circle widget
 
 
 ## How to use
